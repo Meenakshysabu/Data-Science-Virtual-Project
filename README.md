@@ -4,16 +4,7 @@ Welcome to my submission for the **Tata Data Science Virtual Experience Program 
 
 ---
 
-## 📁 Project Structure
-├── data/
-│ ├── client_data.csv
-│ ├── price_data.csv
-│ ├── churn_indicator.csv
-│ └── data_for_predictions.csv
-├── powerco_task1_eda.ipynb
-├── powerco_task2_feature_engineering.ipynb
-├── powerco_task3_model_building.ipynb
-├── README.md
+<pre><code>## 📁 Project Structure ``` project-root/ ├── data/ │ ├── client_data.csv │ ├── price_data.csv │ ├── churn_indicator.csv │ └── data_for_predictions.csv ├── powerco_task1_eda.ipynb ├── powerco_task2_feature_engineering.ipynb ├── powerco_task3_model_building.ipynb ├── README.md ``` </code></pre>
 
 
 ---
