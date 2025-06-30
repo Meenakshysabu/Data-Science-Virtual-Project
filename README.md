@@ -1,6 +1,7 @@
-# 🌟 Tata Forage Data Science Virtual Experience Program
+# 🌟 BCG X Data Science Job Simulation — Forage
 
-Welcome to my submission for the **Tata Data Science Virtual Experience Program on Forage**. This project simulates a real-world case study where I, as a data scientist, help a fictional company (PowerCo) investigate customer churn through data analysis, feature engineering, and machine learning.
+Welcome to my submission for the **BCG X Data Science Job Simulation** offered on **Forage**.  
+This virtual program simulates a real-world data science case study where I play the role of a data scientist at **PowerCo**, helping the team investigate customer churn through data exploration, feature engineering, and machine learning.
 
 ---
 
