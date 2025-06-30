@@ -102,7 +102,7 @@ You can view my certificate for the Tata Data Science Virtual Experience Program
 
 ---
 ## 👤 Connect with Me
-[LinkedIn](www.linkedin.com/in/meenakshy-sabu-741226321)
+🔗 [LinkedIn](www.linkedin.com/in/meenakshy-sabu-741226321)
 
 
 
